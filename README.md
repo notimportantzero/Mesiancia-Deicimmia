@@ -44,7 +44,7 @@ Website pribadi Raka
     <header>Messiancia Deicimmia</header>
     <h2>Galeri Pribadi</h2>
     <div class="gallery">
-        <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBOfaOa-KmvYMxsH1n9S3hssjxBfbOHBpOIxofy2s3RtNFilORmMsEdGhfV0tvAazjFscSzebvlWcEAxpIPuLEC79bHoRXbH3QcxZ-csbqh6aw=s512" alt="Gambar 1">
+        <img src="https://drive.google.com/uc?export=view&id=1-dSsfChK5aOOgKsZHML_Kv2g26p3aqanlWcEAxpIPuLEC79bHoRXbH3QcxZ-csbqh6aw=s512" alt="Gambar 1">
         <img src="https://via.placeholder.com/200" alt="Gambar 2">
         <img src="https://via.placeholder.com/200" alt="Gambar 3">
     </div>
