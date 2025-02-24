@@ -44,7 +44,7 @@ Website pribadi Raka
     <header>Messiancia Deicimmia</header>
     <h2>Galeri Pribadi</h2>
     <div class="gallery">
-        <img src="https://drive.google.com/uc?export=view&id=1-dSsfChK5aOOgKsZHML_Kv2g26p3aqan" alt="Gambar 1">
+        <img src="https://drive.google.com/uc?export=view&id=1-dSsfChK5aOOgKsZHML_Kv2g26p3aqan" alt="Foto dari Google Drive">
         <img src="https://via.placeholder.com/200" alt="Gambar 2">
         <img src="https://via.placeholder.com/200" alt="Gambar 3">
     </div>
